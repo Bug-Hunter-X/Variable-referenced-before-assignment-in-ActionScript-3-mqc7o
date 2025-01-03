@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript 3: referencing a variable before it has been assigned a value.  The `bug.as` file contains the erroneous code, leading to a runtime error.  The `bugSolution.as` file provides the corrected code.  This error is often subtle and can be difficult to track down in larger projects.
